@@ -2,7 +2,7 @@
 Our hack SIH Hack for Airport Authority of India that makes equipment management a piece of cake by integrating QR code technology :)
 
 ## ABOUT :
-Managing an aiport is not among the easiest tasks to handle. We felt that ~~10 trained humans~~ **an app** will be enough to manage this humongous amounts of data related to thousands of equipments present at an airport.
+Managing an aiport is not among the easiest tasks to handle. We felt that ~~10 trained human beings~~ **an app** will be enough to manage this humongous amounts of data related to thousands of equipments present at an airport.
 
 We present before you _AIM : Airport Inventory Management_ that will allow one to login from their exclusive IDs to check, edit, add and export every crucial piece of info such as its serial number, date of manufacture, date of purchase, model, department, maintanance details, and much more! Now, before if start feeling too clumsy, we have organised it in such a manner that you will only see the data that you want see (see?).
 
