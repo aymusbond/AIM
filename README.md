@@ -24,7 +24,7 @@ So how is it different, you may ask. Well, we have made it all so much fun and e
 - Brings the chance of typing errors and and human errors to zero.
 - Any dicrepency could tracked down to the person who edited the data.
 - The data can be easily shared to other departments and other airports as well.
-- If encorportated on a large scale, could be used to manange things other than equpipments as well as the app is very versatile.
+- If encorportated on a large scale, could be used to manange things other than equipments as the app is very versatile.
 
 ## TO-BE ADDED FEATURES :
 - Language support for staff that isn't well versed in english.
