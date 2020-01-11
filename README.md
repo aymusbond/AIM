@@ -19,4 +19,11 @@ So how is it different, you may ask. Well, we have made it all so much fun and e
 
 ## FUTURE PROSPECTS :
 - Will increase the work efficiency by many folds as the exact same and updated data will be present with every team member.
-- The data connected to the cloud can be used to set reminders of the next service date as well as allow the financial 
+- The data connected to the cloud can be used to set reminders of the next service date as well as allow the financial department to keep a check on how many equipments they have and will need.
+- Will reduce the requirement of man force as data is no longer required to be maintained in the primitive _record books and directories_.
+- Brings the chance of typing errors and and human errors to zero.
+- Any dicrepency could tracked down to the person who edited the data.
+- The data can be easily shared to other departments and other airports as well.
+- If encorportated on a large scale, could be used to manange things other than equpipments as well as the app is very versatile.
+
+## TO-BE ADDED FEATURES :
