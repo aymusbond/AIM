@@ -11,7 +11,7 @@ So how is it different, you may ask. Well, we have made it all so much fun and e
 ## FEATURES :
 - Exclusive login credentials for everyone.
 - An easy to use interface which shows the details you want to see.
-- Everything is stored on the cloud; thus data is safe as well updated instantly.
+- Everything is **stored on the cloud**; thus data is safe as well updated instantly.
 - Increases **transparency** among staff as everyone can see the data (can be controlled by admin).
 - Shows edit history.
 - Uses QR code technology replacing the cumbersome serial number input requirement to get data.
@@ -32,3 +32,5 @@ So how is it different, you may ask. Well, we have made it all so much fun and e
 - User feedback section.
 - Search option.
 - Cross-platform support.
+
+## NOTE :
