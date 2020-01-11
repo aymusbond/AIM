@@ -34,3 +34,10 @@ So how is it different, you may ask. Well, we have made it all so much fun and e
 - Cross-platform support.
 
 ## NOTE :
+- To connect Airtable databases to Thunkable, one must enter the following API Key and Base ID.
+  -API Key - keyBxmamBWnwcm3Zt
+  -Base ID - appjV8ZAjYfIeXaLh
+- To connect to MediaDB(cloud to store pictures) to Thunkable, one must enter the following API Key and API Secret.
+  -API Key - 111261899941778
+  -API Secret - pFX22BlsnGV_R38NWsBenVXVMaI
+  
