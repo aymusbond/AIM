@@ -27,3 +27,8 @@ So how is it different, you may ask. Well, we have made it all so much fun and e
 - If encorportated on a large scale, could be used to manange things other than equpipments as well as the app is very versatile.
 
 ## TO-BE ADDED FEATURES :
+- Language support for staff that isn't well versed in english.
+- Fingerprint and face recognition for login.
+- User feedback section.
+- Search option.
+- Cross-platform support.
